@@ -1,2 +1,2 @@
-# Review-of-EDES-detection-of-EG
-A Review of Automatic Detection of End-diastolic and End-systolic Frames in Echocardiography
+# Label 3DEPD
+This ia a phase annotation software for 3D echocardiography
